@@ -1,4 +1,4 @@
-package dev.rupesh.config;
+package dev.amazonjob.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

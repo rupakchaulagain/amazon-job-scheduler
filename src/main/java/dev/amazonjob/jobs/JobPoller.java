@@ -1,10 +1,10 @@
-package dev.rupesh.jobs;
+package dev.amazonjob.jobs;
 
-import dev.rupesh.config.AppProps;
-import dev.rupesh.model.AmazonSearchResponse;
-import dev.rupesh.service.AmazonGraphService;
-import dev.rupesh.service.DiscordClient;
-import dev.rupesh.service.GraphqlClient;
+import dev.amazonjob.config.AppProps;
+import dev.amazonjob.model.AmazonSearchResponse;
+import dev.amazonjob.service.AmazonGraphService;
+import dev.amazonjob.service.DiscordClient;
+import dev.amazonjob.service.GraphqlClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.scheduling.annotation.Scheduled;

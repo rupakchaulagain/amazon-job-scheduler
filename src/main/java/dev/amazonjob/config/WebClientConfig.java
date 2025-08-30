@@ -1,4 +1,4 @@
-package dev.rupesh.config;
+package dev.amazonjob.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

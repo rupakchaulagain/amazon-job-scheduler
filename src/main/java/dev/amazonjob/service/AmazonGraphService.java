@@ -1,8 +1,8 @@
-package dev.rupesh.service;
+package dev.amazonjob.service;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import dev.rupesh.config.AppProps;
-import dev.rupesh.model.AmazonSearchResponse;
+import dev.amazonjob.config.AppProps;
+import dev.amazonjob.model.AmazonSearchResponse;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
